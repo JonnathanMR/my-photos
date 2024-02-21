@@ -1,0 +1,8 @@
+{
+  "name": "MyPhotos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "eff1f533"
+}
